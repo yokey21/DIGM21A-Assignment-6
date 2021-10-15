@@ -1,0 +1,25 @@
+/*Default case, class/id styling will overide*/
+h1 {
+    font-family:sans-serif
+}
+
+h2 {
+    font-family:sans-serif
+}
+
+/* Styling a Class */
+.firstParagraph {
+    font-family:sans-serif;
+    color: purple;
+    font-size: 25px;
+    background-color: green;
+}
+
+ul {
+    border:orange solid 2px
+}
+
+li {
+    font-size: 18;
+    color: red;
+}
